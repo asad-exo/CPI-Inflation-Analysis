@@ -23,6 +23,11 @@
   <img src="charts/world-map.png" alt="World map of average annual inflation, roughly 2000 to 2021" width="900">
 </p>
 
+---
+
+> [!NOTE]
+> This is a coursework project from my undergraduate studies (BS Computer Science, GIKI). I'm posting it to GitHub retroactively, for the record.
+
 ## Overview
 
 The Consumer Price Index (CPI) tracks what consumers pay for a fixed basket of goods and services, which makes it the standard measure of inflation. This project combines the United Nations' CPI tables with World Bank indicators to answer a set of questions about inflation around the world:
@@ -95,5 +100,3 @@ Running the notebook from top to bottom regenerates every table and every chart 
 ## Authors
 
 **Asad Shahab** · Mahad Iqbal
-
-The project began as coursework for CS439 Data Science at the GIK Institute of Engineering Sciences and Technology.
