@@ -1,0 +1,250 @@
+iso3,m49,continent_code,un_region,un_subregion,un_intermediate_region
+AFG,4,AS,Asia,Southern Asia,
+ALA,248,EU,Europe,Northern Europe,
+ALB,8,EU,Europe,Southern Europe,
+DZA,12,AF,Africa,Northern Africa,
+ASM,16,OC,Oceania,Polynesia,
+AND,20,EU,Europe,Southern Europe,
+AGO,24,AF,Africa,Sub-Saharan Africa,Middle Africa
+AIA,660,NA,Americas,Latin America and the Caribbean,Caribbean
+ATA,10,AN,,,
+ATG,28,NA,Americas,Latin America and the Caribbean,Caribbean
+ARG,32,SA,Americas,Latin America and the Caribbean,South America
+ARM,51,AS,Asia,Western Asia,
+ABW,533,NA,Americas,Latin America and the Caribbean,Caribbean
+AUS,36,OC,Oceania,Australia and New Zealand,
+AUT,40,EU,Europe,Western Europe,
+AZE,31,AS,Asia,Western Asia,
+BHS,44,NA,Americas,Latin America and the Caribbean,Caribbean
+BHR,48,AS,Asia,Western Asia,
+BGD,50,AS,Asia,Southern Asia,
+BRB,52,NA,Americas,Latin America and the Caribbean,Caribbean
+BLR,112,EU,Europe,Eastern Europe,
+BEL,56,EU,Europe,Western Europe,
+BLZ,84,NA,Americas,Latin America and the Caribbean,Central America
+BEN,204,AF,Africa,Sub-Saharan Africa,Western Africa
+BMU,60,NA,Americas,Northern America,
+BTN,64,AS,Asia,Southern Asia,
+BOL,68,SA,Americas,Latin America and the Caribbean,South America
+BES,535,NA,Americas,Latin America and the Caribbean,Caribbean
+BIH,70,EU,Europe,Southern Europe,
+BWA,72,AF,Africa,Sub-Saharan Africa,Southern Africa
+BVT,74,AN,Americas,Latin America and the Caribbean,South America
+BRA,76,SA,Americas,Latin America and the Caribbean,South America
+IOT,86,AS,Africa,Sub-Saharan Africa,Eastern Africa
+VGB,92,NA,Americas,Latin America and the Caribbean,Caribbean
+BRN,96,AS,Asia,South-eastern Asia,
+BGR,100,EU,Europe,Eastern Europe,
+BFA,854,AF,Africa,Sub-Saharan Africa,Western Africa
+BDI,108,AF,Africa,Sub-Saharan Africa,Eastern Africa
+CPV,132,AF,Africa,Sub-Saharan Africa,Western Africa
+KHM,116,AS,Asia,South-eastern Asia,
+CMR,120,AF,Africa,Sub-Saharan Africa,Middle Africa
+CAN,124,NA,Americas,Northern America,
+CYM,136,NA,Americas,Latin America and the Caribbean,Caribbean
+CAF,140,AF,Africa,Sub-Saharan Africa,Middle Africa
+TCD,148,AF,Africa,Sub-Saharan Africa,Middle Africa
+CHL,152,SA,Americas,Latin America and the Caribbean,South America
+CHN,156,AS,Asia,Eastern Asia,
+HKG,344,AS,Asia,Eastern Asia,
+MAC,446,AS,Asia,Eastern Asia,
+CXR,162,OC,Oceania,Australia and New Zealand,
+CCK,166,AS,Oceania,Australia and New Zealand,
+COL,170,SA,Americas,Latin America and the Caribbean,South America
+COM,174,AF,Africa,Sub-Saharan Africa,Eastern Africa
+COG,178,AF,Africa,Sub-Saharan Africa,Middle Africa
+COK,184,OC,Oceania,Polynesia,
+CRI,188,NA,Americas,Latin America and the Caribbean,Central America
+HRV,191,EU,Europe,Southern Europe,
+CUB,192,NA,Americas,Latin America and the Caribbean,Caribbean
+CUW,531,NA,Americas,Latin America and the Caribbean,Caribbean
+CYP,196,EU,Asia,Western Asia,
+CZE,203,EU,Europe,Eastern Europe,
+PRK,408,AS,Asia,Eastern Asia,
+COD,180,AF,Africa,Sub-Saharan Africa,Middle Africa
+DNK,208,EU,Europe,Northern Europe,
+DJI,262,AF,Africa,Sub-Saharan Africa,Eastern Africa
+DMA,212,NA,Americas,Latin America and the Caribbean,Caribbean
+DOM,214,NA,Americas,Latin America and the Caribbean,Caribbean
+ECU,218,SA,Americas,Latin America and the Caribbean,South America
+EGY,818,AF,Africa,Northern Africa,
+SLV,222,NA,Americas,Latin America and the Caribbean,Central America
+GNQ,226,AF,Africa,Sub-Saharan Africa,Middle Africa
+ERI,232,AF,Africa,Sub-Saharan Africa,Eastern Africa
+EST,233,EU,Europe,Northern Europe,
+SWZ,748,AF,Africa,Sub-Saharan Africa,Southern Africa
+ETH,231,AF,Africa,Sub-Saharan Africa,Eastern Africa
+FLK,238,SA,Americas,Latin America and the Caribbean,South America
+FRO,234,EU,Europe,Northern Europe,
+FJI,242,OC,Oceania,Melanesia,
+FIN,246,EU,Europe,Northern Europe,
+FRA,250,EU,Europe,Western Europe,
+GUF,254,SA,Americas,Latin America and the Caribbean,South America
+PYF,258,OC,Oceania,Polynesia,
+ATF,260,AN,Africa,Sub-Saharan Africa,Eastern Africa
+GAB,266,AF,Africa,Sub-Saharan Africa,Middle Africa
+GMB,270,AF,Africa,Sub-Saharan Africa,Western Africa
+GEO,268,AS,Asia,Western Asia,
+DEU,276,EU,Europe,Western Europe,
+GHA,288,AF,Africa,Sub-Saharan Africa,Western Africa
+GIB,292,EU,Europe,Southern Europe,
+GRC,300,EU,Europe,Southern Europe,
+GRL,304,NA,Americas,Northern America,
+GRD,308,NA,Americas,Latin America and the Caribbean,Caribbean
+GLP,312,NA,Americas,Latin America and the Caribbean,Caribbean
+GUM,316,OC,Oceania,Micronesia,
+GTM,320,NA,Americas,Latin America and the Caribbean,Central America
+GGY,831,EU,Europe,Northern Europe,
+GIN,324,AF,Africa,Sub-Saharan Africa,Western Africa
+GNB,624,AF,Africa,Sub-Saharan Africa,Western Africa
+GUY,328,SA,Americas,Latin America and the Caribbean,South America
+HTI,332,NA,Americas,Latin America and the Caribbean,Caribbean
+HMD,334,AN,Oceania,Australia and New Zealand,
+VAT,336,EU,Europe,Southern Europe,
+HND,340,NA,Americas,Latin America and the Caribbean,Central America
+HUN,348,EU,Europe,Eastern Europe,
+ISL,352,EU,Europe,Northern Europe,
+IND,356,AS,Asia,Southern Asia,
+IDN,360,AS,Asia,South-eastern Asia,
+IRN,364,AS,Asia,Southern Asia,
+IRQ,368,AS,Asia,Western Asia,
+IRL,372,EU,Europe,Northern Europe,
+IMN,833,EU,Europe,Northern Europe,
+ISR,376,AS,Asia,Western Asia,
+ITA,380,EU,Europe,Southern Europe,
+CIV,384,AF,Africa,Sub-Saharan Africa,Western Africa
+JAM,388,NA,Americas,Latin America and the Caribbean,Caribbean
+JPN,392,AS,Asia,Eastern Asia,
+JEY,832,EU,Europe,Northern Europe,
+JOR,400,AS,Asia,Western Asia,
+KAZ,398,AS,Asia,Central Asia,
+KEN,404,AF,Africa,Sub-Saharan Africa,Eastern Africa
+KIR,296,OC,Oceania,Micronesia,
+KWT,414,AS,Asia,Western Asia,
+KGZ,417,AS,Asia,Central Asia,
+LAO,418,AS,Asia,South-eastern Asia,
+LVA,428,EU,Europe,Northern Europe,
+LBN,422,AS,Asia,Western Asia,
+LSO,426,AF,Africa,Sub-Saharan Africa,Southern Africa
+LBR,430,AF,Africa,Sub-Saharan Africa,Western Africa
+LBY,434,AF,Africa,Northern Africa,
+LIE,438,EU,Europe,Western Europe,
+LTU,440,EU,Europe,Northern Europe,
+LUX,442,EU,Europe,Western Europe,
+MDG,450,AF,Africa,Sub-Saharan Africa,Eastern Africa
+MWI,454,AF,Africa,Sub-Saharan Africa,Eastern Africa
+MYS,458,AS,Asia,South-eastern Asia,
+MDV,462,AS,Asia,Southern Asia,
+MLI,466,AF,Africa,Sub-Saharan Africa,Western Africa
+MLT,470,EU,Europe,Southern Europe,
+MHL,584,OC,Oceania,Micronesia,
+MTQ,474,NA,Americas,Latin America and the Caribbean,Caribbean
+MRT,478,AF,Africa,Sub-Saharan Africa,Western Africa
+MUS,480,AF,Africa,Sub-Saharan Africa,Eastern Africa
+MYT,175,AF,Africa,Sub-Saharan Africa,Eastern Africa
+MEX,484,NA,Americas,Latin America and the Caribbean,Central America
+FSM,583,OC,Oceania,Micronesia,
+MCO,492,EU,Europe,Western Europe,
+MNG,496,AS,Asia,Eastern Asia,
+MNE,499,EU,Europe,Southern Europe,
+MSR,500,NA,Americas,Latin America and the Caribbean,Caribbean
+MAR,504,AF,Africa,Northern Africa,
+MOZ,508,AF,Africa,Sub-Saharan Africa,Eastern Africa
+MMR,104,AS,Asia,South-eastern Asia,
+NAM,516,AF,Africa,Sub-Saharan Africa,Southern Africa
+NRU,520,OC,Oceania,Micronesia,
+NPL,524,AS,Asia,Southern Asia,
+NLD,528,EU,Europe,Western Europe,
+NCL,540,OC,Oceania,Melanesia,
+NZL,554,OC,Oceania,Australia and New Zealand,
+NIC,558,NA,Americas,Latin America and the Caribbean,Central America
+NER,562,AF,Africa,Sub-Saharan Africa,Western Africa
+NGA,566,AF,Africa,Sub-Saharan Africa,Western Africa
+NIU,570,OC,Oceania,Polynesia,
+NFK,574,OC,Oceania,Australia and New Zealand,
+MNP,580,OC,Oceania,Micronesia,
+MKD,807,EU,Europe,Southern Europe,
+NOR,578,EU,Europe,Northern Europe,
+OMN,512,AS,Asia,Western Asia,
+PAK,586,AS,Asia,Southern Asia,
+PLW,585,OC,Oceania,Micronesia,
+PAN,591,NA,Americas,Latin America and the Caribbean,Central America
+PNG,598,OC,Oceania,Melanesia,
+PRY,600,SA,Americas,Latin America and the Caribbean,South America
+PER,604,SA,Americas,Latin America and the Caribbean,South America
+PHL,608,AS,Asia,South-eastern Asia,
+PCN,612,OC,Oceania,Polynesia,
+POL,616,EU,Europe,Eastern Europe,
+PRT,620,EU,Europe,Southern Europe,
+PRI,630,NA,Americas,Latin America and the Caribbean,Caribbean
+QAT,634,AS,Asia,Western Asia,
+KOR,410,AS,Asia,Eastern Asia,
+MDA,498,EU,Europe,Eastern Europe,
+REU,638,AF,Africa,Sub-Saharan Africa,Eastern Africa
+ROU,642,EU,Europe,Eastern Europe,
+RUS,643,EU,Europe,Eastern Europe,
+RWA,646,AF,Africa,Sub-Saharan Africa,Eastern Africa
+BLM,652,NA,Americas,Latin America and the Caribbean,Caribbean
+SHN,654,AF,Africa,Sub-Saharan Africa,Western Africa
+KNA,659,NA,Americas,Latin America and the Caribbean,Caribbean
+LCA,662,NA,Americas,Latin America and the Caribbean,Caribbean
+MAF,663,NA,Americas,Latin America and the Caribbean,Caribbean
+SPM,666,NA,Americas,Northern America,
+VCT,670,NA,Americas,Latin America and the Caribbean,Caribbean
+WSM,882,OC,Oceania,Polynesia,
+SMR,674,EU,Europe,Southern Europe,
+STP,678,AF,Africa,Sub-Saharan Africa,Middle Africa
+SAU,682,AS,Asia,Western Asia,
+SEN,686,AF,Africa,Sub-Saharan Africa,Western Africa
+SRB,688,EU,Europe,Southern Europe,
+SYC,690,AF,Africa,Sub-Saharan Africa,Eastern Africa
+SLE,694,AF,Africa,Sub-Saharan Africa,Western Africa
+SGP,702,AS,Asia,South-eastern Asia,
+SXM,534,NA,Americas,Latin America and the Caribbean,Caribbean
+SVK,703,EU,Europe,Eastern Europe,
+SVN,705,EU,Europe,Southern Europe,
+SLB,90,OC,Oceania,Melanesia,
+SOM,706,AF,Africa,Sub-Saharan Africa,Eastern Africa
+ZAF,710,AF,Africa,Sub-Saharan Africa,Southern Africa
+SGS,239,AN,Americas,Latin America and the Caribbean,South America
+SSD,728,AF,Africa,Sub-Saharan Africa,Eastern Africa
+ESP,724,EU,Europe,Southern Europe,
+LKA,144,AS,Asia,Southern Asia,
+PSE,275,AS,Asia,Western Asia,
+SDN,729,AF,Africa,Northern Africa,
+SUR,740,SA,Americas,Latin America and the Caribbean,South America
+SJM,744,EU,Europe,Northern Europe,
+SWE,752,EU,Europe,Northern Europe,
+CHE,756,EU,Europe,Western Europe,
+SYR,760,AS,Asia,Western Asia,
+TWN,158,AS,Asia,Eastern Asia,
+TJK,762,AS,Asia,Central Asia,
+THA,764,AS,Asia,South-eastern Asia,
+TLS,626,OC,Asia,South-eastern Asia,
+TGO,768,AF,Africa,Sub-Saharan Africa,Western Africa
+TKL,772,OC,Oceania,Polynesia,
+TON,776,OC,Oceania,Polynesia,
+TTO,780,NA,Americas,Latin America and the Caribbean,Caribbean
+TUN,788,AF,Africa,Northern Africa,
+TUR,792,AS,Asia,Western Asia,
+TKM,795,AS,Asia,Central Asia,
+TCA,796,NA,Americas,Latin America and the Caribbean,Caribbean
+TUV,798,OC,Oceania,Polynesia,
+UGA,800,AF,Africa,Sub-Saharan Africa,Eastern Africa
+UKR,804,EU,Europe,Eastern Europe,
+ARE,784,AS,Asia,Western Asia,
+GBR,826,EU,Europe,Northern Europe,
+TZA,834,AF,Africa,Sub-Saharan Africa,Eastern Africa
+UMI,581,OC,Oceania,Micronesia,
+USA,840,NA,Americas,Northern America,
+VIR,850,NA,Americas,Latin America and the Caribbean,Caribbean
+URY,858,SA,Americas,Latin America and the Caribbean,South America
+UZB,860,AS,Asia,Central Asia,
+VUT,548,OC,Oceania,Melanesia,
+VEN,862,SA,Americas,Latin America and the Caribbean,South America
+VNM,704,AS,Asia,South-eastern Asia,
+WLF,876,OC,Oceania,Polynesia,
+ESH,732,AF,Africa,Northern Africa,
+YEM,887,AS,Asia,Western Asia,
+ZMB,894,AF,Africa,Sub-Saharan Africa,Eastern Africa
+ZWE,716,AF,Africa,Sub-Saharan Africa,Eastern Africa
